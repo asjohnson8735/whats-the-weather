@@ -11,7 +11,7 @@ https://asjohnson8735.github.io/whats-the-weather/
 
 ## Usage
 Type in your city and data should show up for the week. 
-![preview](\assets\weatherapi.jpg) 
+![preview](./assets/weatherapi.jpg) 
 
 
 ## Credits 
